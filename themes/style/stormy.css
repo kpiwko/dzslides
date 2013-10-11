@@ -1,8 +1,8 @@
 /*
  Theme: Stormy
- Fonts: Yanone Kaffeesatz, Cedarville Cursive
+ Fonts: Signika, Cedarville Cursive
 
- <link href="http://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,700,200,300" rel="stylesheet">
+ <link href="http://fonts.googleapis.com/css?family=Signika:400,700,200,300&subset=latin,latin-ext" rel="stylesheet">
  <link href="http://fonts.googleapis.com/css?family=Cedarville+Cursive" rel="stylesheet">
 
  Style class:
@@ -40,7 +40,7 @@
 html, .view body {
   background: #333333 url(../../images/gray-noise.png) repeat;
   counter-reset: slideidx;
-  font-family: 'Yanone Kaffeesatz', sans-serif;
+  font-family: 'Signika', sans-serif;
 }
 
 body, .view section {
@@ -624,7 +624,7 @@ section > p {
 }
 
 section p.statement strong {
-  font-size: 3em;
+  font-size: 2.6em;
   line-height: .75em;
 }
 
